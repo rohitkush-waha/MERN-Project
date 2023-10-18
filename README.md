@@ -1,4 +1,5 @@
 **Project Idea: Task Management Application**
+https://jsonplaceholder.typicode.com/photos?id=1&id=2&id=3&id=4&id=5&id=6&id=7&id=9&id=9&id=10
 
 **Description:**
 Create a task management application where users can register, log in, and manage their tasks. Users should be able to perform the following actions:
